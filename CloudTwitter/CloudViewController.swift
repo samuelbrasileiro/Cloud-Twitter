@@ -54,37 +54,21 @@ class CloudViewController: UIViewController {
     
     @IBAction func buttonAction(_ sender: UIButton){
         if sender == createNewUserButton{
-            createNewUser()
+            //write something here...
         }
         else if sender == writeTweetButton{
-            writeTweet()
+            //write something here...
         }
         else if sender == updateConsoleButton{
-            updateConsole()
+            //write something here...
         }
         else if sender == clearDatabaseButton{
-            clearDatabase()
+            //write something here...
         }
         
     }
     
     //MARK:- Funções
-    
-    func createNewUser(){
-        //write something here...
-    }
-    
-    func writeTweet(){
-        //write something here...
-    }
-    
-    func updateConsole(){
-        //write something here...
-    }
-    
-    func clearDatabase(){
-        //write something here...
-    }
     
 }
 
